@@ -1,0 +1,6 @@
+c:\users\hasan\documents\visual studio 2010\Projects\EShoppingSolution\EShopping\bin\EShopping.dll
+c:\users\hasan\documents\visual studio 2010\Projects\EShoppingSolution\EShopping\bin\EShopping.pdb
+c:\users\hasan\documents\visual studio 2010\Projects\EShoppingSolution\EShopping\obj\Debug\EShopping.dll
+c:\users\hasan\documents\visual studio 2010\Projects\EShoppingSolution\EShopping\obj\Debug\EShopping.pdb
+C:\Users\Hasan\documents\visual studio 2010\Projects\EShoppingSolution\EShopping\bin\itextsharp.dll
+C:\Users\Hasan\documents\visual studio 2010\Projects\EShoppingSolution\EShopping\obj\Debug\EShopping.csprojResolveAssemblyReference.cache
